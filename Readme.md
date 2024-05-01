@@ -34,6 +34,9 @@ Before running the script, make sure you have Python installed on your system.
 
 This script is provided for educational and informational purposes only. Use it at your own risk and responsibility. The authors of this script are not liable for any misuse, damage, or unauthorized scanning.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE file](https://github.com/aravindshivakumar/PortScanner/blob/84de026025973ed126bcc4573262679376877ac3/LICENSE) for details.
 
 
 
